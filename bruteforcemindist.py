@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 """Brute force calculation of the minimum distance to assume being attacked using only the number of peers and the HTL.
 

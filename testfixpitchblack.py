@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 """Testing the fix to the pitch black attack following Oskar Sandberg's fix.
 
